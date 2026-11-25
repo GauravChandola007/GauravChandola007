@@ -14,8 +14,13 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github)](https://github.com/GauravChandola007)
-[![Repositories](https://img.shields.io/badge/Explore-Projects-111827?style=flat-square&logo=github)](https://github.com/GauravChandola007?tab=repositories)
+<a href="https://github.com/GauravChandola007">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/feed/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -76,33 +81,46 @@ I enjoy going beyond writing code. I like understanding system architecture, con
 
 # `02. TECHNOLOGY MATRIX`
 
-*Technologies I work with and am actively exploring.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=My+Tools.+My+Technologies.+My+Workspace.;Always+Learning+New+Things."/>
 
 </div>
 
-**PROGRAMMING LANGUAGES**
+### 💻 Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,java,html,css&theme=dark"/>
 </p>
 
-**FRONTEND ENGINEERING**
+### 🎨 Frontend Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
 </p>
 
-**BACKEND & DATA**
+### ⚙️ Backend & Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark"/>
 </p>
 
-**ANDROID & DEVELOPMENT ENVIRONMENT**
+### 📱 Android Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,vscode,linux&theme=dark"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark"/>
 </p>
+
+### 🧰 Tools & Environment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/ALWAYS-BUILDING-9D70FF?style=for-the-badge&labelColor=080B18"/>
+
+</div>
 
 ---
 
@@ -110,7 +128,7 @@ I enjoy going beyond writing code. I like understanding system architecture, con
 
 # `03. PROJECT LAB`
 
-*Ideas transformed into engineering projects.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=9D70FF&center=true&vCenter=true&width=600&lines=Ideas+Transformed+Into+Engineering+Projects.;Building+Technology+That+Solves+Problems."/>
 
 </div>
 
@@ -151,6 +169,7 @@ The goal is to make interview preparation more interactive, measurable and impro
 
 </td>
 </tr>
+
 <tr>
 <td width="100%">
 
@@ -228,53 +247,72 @@ An AI assistant project exploring the integration of intelligent capabilities wi
 
 # `07. ACTIVE RESEARCH & LEARNING`
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=9D70FF&center=true&vCenter=true&width=600&lines=Knowledge+is+an+ongoing+process.;Explore.+Experiment.+Engineer."/>
+
 </div>
 
-<details>
-<summary><b>⚡ Programming & Computer Science</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- JavaScript internals and advanced concepts
-- TypeScript
-- Java and Object-Oriented Programming
-- Data Structures and Algorithms
-- Problem Solving
-- Software Engineering Fundamentals
+### 💻 Programming
 
-</details>
+- 🟨 JavaScript
+- 🔷 TypeScript
+- ☕ Java
+- 🧩 Object-Oriented Programming
+- 🧠 Data Structures & Algorithms
 
-<details>
-<summary><b>🤖 Artificial Intelligence</b></summary>
+</td>
+<td width="50%" valign="top">
 
-- Large Language Models
-- AI application architecture
-- AI-powered workflows
-- Intelligent assistants
-- AI integration with software products
+### 🤖 Artificial Intelligence
 
-</details>
+- 🧠 Large Language Models
+- ⚡ AI Application Architecture
+- 🔗 AI API Integration
+- 🤖 Intelligent Assistants
+- 🔄 AI-powered Workflows
 
-<details>
-<summary><b>⚙️ Engineering & Development</b></summary>
+</td>
+</tr>
 
-- REST API architecture
-- Backend development
-- Database design
-- Android application development
-- Git and GitHub workflows
-- Application architecture
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### ⚙️ Software Engineering
 
-<details>
-<summary><b>🚀 Long-Term Mission</b></summary>
+- 🌐 REST API Development
+- 🗄️ Database Architecture
+- 🔧 Backend Engineering
+- 🔀 Git & GitHub Workflows
+- 🏗️ Application Architecture
 
-- Become a strong software engineer
-- Build useful and reliable applications
-- Develop deeper computer science fundamentals
-- Work on meaningful AI-powered products
-- Contribute to real-world software projects
+</td>
+<td width="50%" valign="top">
 
-</details>
+### 📱 Application Development
+
+- 📲 Android Development
+- 🎨 React Development
+- 🔌 Frontend-Backend Integration
+- 🧪 Testing & Debugging
+- 🚀 Real-world Applications
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**CURRENT DEVELOPMENT CYCLE**
+
+<img src="https://img.shields.io/badge/01-LEARN-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/02-EXPERIMENT-7C3AED?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/03-BUILD-00D084?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/04-IMPROVE-FFB020?style=for-the-badge&labelColor=080B18"/>
+
+</div>
 
 ---
 
@@ -282,23 +320,40 @@ An AI assistant project exploring the integration of intelligent capabilities wi
 
 # `08. ESTABLISH CONNECTION`
 
-### Have an interesting idea or project?
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=Let's+Connect+and+Build+Something.;Open+to+Ideas.+Collaboration.+Learning."/>
+
+### 🤝 Let's Connect & Collaborate
+
+Have an interesting idea, project or opportunity?
 
 I'm interested in connecting with developers, builders and people working on meaningful technology.
 
 <br/>
 
 <a href="https://github.com/GauravChandola007">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/feed/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gaurav.chandola08@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:30205E,100:080B18&height=130&section=footer&animation=fadeIn" width="100%"/>
+<a href="https://github.com/GauravChandola007">
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-00E5FF?style=for-the-badge&labelColor=080B18"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:30205E,100:080B18&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 **END OF TRANSMISSION**
 
 `DESIGNED & BUILT BY GAURAV CHANDOLA`
 
 </div>
-
