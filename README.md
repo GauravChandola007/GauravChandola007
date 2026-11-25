@@ -1,147 +1,174 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=180&section=header&text=GAURAV%20CHANDOLA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Welcome+to+my+developer+space.;Building+ideas+into+reality.;Learning.+Coding.+Improving+every+day.;Exploring+AI+%26+Software+Engineering.;Turning+ideas+into+real+projects."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,35:101B3D,70:30205E,100:00D9FF&height=240&section=header&text=GAURAV%20CHANDOLA&fontSize=54&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20EXPLORER%20%7C%20BUILDER&descSize=14&descAlignY=65"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GauravChandola007&style=flat-square&color=0891B2&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/GauravChandola007?style=flat-square&color=0891B2&label=FOLLOWERS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=750&height=55&lines=Initializing+Gaurav's+Developer+Space...;Building+Intelligent+Software+Systems;Turning+Ideas+Into+Working+Products;Exploring+AI+%7C+Full+Stack+%7C+Android;Code.+Experiment.+Engineer.+Repeat."/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://komarev.com/ghpvc/?username=GauravChandola007&style=for-the-badge&color=7C3AED&label=VISITORS"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github)](https://github.com/GauravChandola007)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-111827?style=flat-square&logo=github)](https://github.com/GauravChandola007?tab=repositories)
 
 </div>
 
 ---
 
-## 01 / About Me
+<div align="center">
+
+# `01. THE DEVELOPER`
+
+### Hello, I'm Gaurav Chandola 👋
+
+**Computer Science Engineering Student | Aspiring Software Engineer**
+
+</div>
+
+I am a developer from India interested in software engineering, artificial intelligence, application development and building technology that solves real problems.
+
+I enjoy going beyond writing code. I like understanding system architecture, connecting different technologies and turning ambitious ideas into functional applications.
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### Hello, I'm Gaurav! 👋
+#### 🧬 Developer Profile
 
-A Computer Science Engineering diploma student from India, interested in software development, artificial intelligence and building practical applications.
-
-I enjoy understanding how systems work and turning ideas into functional products.
-
-- 🎓 Computer Science Engineering Student
-- 💻 Exploring Full Stack Development
-- 🤖 Interested in AI and LLM-powered applications
-- ⚙️ Building real-world software projects
-- 🌱 Learning JavaScript, TypeScript and Java
-- 🗄️ Exploring Backend Development and Databases
-- 🚀 Building projects like I-RIS and MYRAA
-- 🎯 Working towards software engineering opportunities
+- 🎓 Computer Science Engineering
+- 🌏 Based in India
+- 💻 Software Development
+- 🤖 AI & LLM Applications
+- 📱 Android Development
+- ⚙️ Backend Engineering
 
 </td>
+<td width="50%" valign="top">
 
-<td width="40%" align="center">
+#### 🎯 Current Mission
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,react,nodejs,androidstudio&perline=3"/>
-
-<br/><br/>
-
-**MY DEVELOPMENT JOURNEY**
-
-`LEARN` → `BUILD` → `DEBUG` → `IMPROVE`
-
-<br/>
-
-**INTERESTS**
-
-`AI` `SOFTWARE` `AUTOMATION`
+- Strengthening JavaScript
+- Learning TypeScript
+- Improving Java fundamentals
+- Exploring backend architecture
+- Building intelligent applications
+- Preparing for software engineering
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+`THINK` → `DESIGN` → `BUILD` → `DEBUG` → `EVOLVE`
+
+</div>
+
 ---
 
-## 02 / Technology Stack
+<div align="center">
 
-**Programming Languages**
+# `02. TECHNOLOGY MATRIX`
+
+*Technologies I work with and am actively exploring.*
+
+</div>
+
+**PROGRAMMING LANGUAGES**
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,java,html,css&theme=dark"/>
 </p>
 
-**Frontend Development**
+**FRONTEND ENGINEERING**
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
 </p>
 
-**Backend & Database**
+**BACKEND & DATA**
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark"/>
 </p>
 
-**Android & Development Tools**
+**ANDROID & DEVELOPMENT ENVIRONMENT**
 
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,git,github,linux,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,vscode,linux&theme=dark"/>
 </p>
 
 ---
 
-## 03 / Featured Projects
+<div align="center">
+
+# `03. PROJECT LAB`
+
+*Ideas transformed into engineering projects.*
+
+</div>
 
 <table>
 <tr>
-<td>
+<td width="100%">
 
-### 🧠 I-RIS — Interview Response Intelligence System
+<img src="https://img.shields.io/badge/PROJECT_01-AI%20%2F%20WEB-00E5FF?style=flat-square&labelColor=101827"/>
 
-An AI-powered mock interview platform designed to help Indian students and freshers improve their interview performance.
+### 🧠 I-RIS
+### Interview Response Intelligence System
 
-**Core Philosophy**
+An AI-powered mock interview preparation platform designed for Indian students and freshers.
 
-Practice → Feedback → Improve → Practice Again.
+The goal is to make interview preparation more interactive, measurable and improvement-focused.
 
-**Key Features**
+**Core Experience**
 
-- AI-powered mock interview experience
+- AI-driven mock interviews
 - Technical, HR and Mixed interview modes
 - Hinglish-first interview experience
-- Interview evaluation and feedback
-- Session history and performance tracking
-- Progress insights and re-practice journey
+- Answer evaluation and feedback
+- Interview session history
+- Performance tracking and progress insights
+- Re-practice and continuous improvement
 
-**Technology Stack**
+**Engineering Stack**
 
 `React` `TypeScript` `Vite` `Node.js` `Fastify` `SQLite`
 
-**Project Information**
+**Product Philosophy**
 
-- Role: Project Developer
-- Focus: AI-powered interview preparation
-- Target Users: Indian students and freshers
-- Platform: Web Application
+`PRACTICE → FEEDBACK → IMPROVE → REPEAT`
 
 <a href="https://github.com/maker-gaurav-chandola/I-RIS">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_I--RIS-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
 </tr>
-
 <tr>
-<td>
+<td width="100%">
 
-### 🤖 MYRAA — AI Personal Assistant
+<img src="https://img.shields.io/badge/PROJECT_02-AI%20%2F%20ANDROID-9D70FF?style=flat-square&labelColor=101827"/>
 
-An AI assistant project focused on building a more capable personal assistant through Android development, backend integration and intelligent workflows.
+### 🤖 MYRAA
+### AI Personal Assistant
+
+An AI assistant project exploring the integration of intelligent capabilities with Android applications and backend systems.
 
 **Development Areas**
 
-- Android application development
-- Kotlin-based Android architecture
-- Backend integration
-- AI capabilities
-- Intelligent workflows and automation
+- Android application architecture
+- Kotlin-based development
+- AI assistant capabilities
+- Backend communication
+- Intelligent workflows
+- Automation and system integration
 
 **Technology Focus**
 
@@ -153,98 +180,125 @@ An AI assistant project focused on building a more capable personal assistant th
 
 ---
 
-## 04 / GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GauravChandola007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github"/>
+# `04. GITHUB COMMAND CENTER`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravChandola007&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF"/>
+*An overview of my open-source development activity.*
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=GauravChandola007&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GauravChandola007&show_icons=true&hide_border=true&bg_color=080B18&title_color=00E5FF&icon_color=9D70FF&text_color=FFFFFF&ring_color=00E5FF&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravChandola007&layout=compact&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=GauravChandola007&theme=tokyonight&hide_border=true&background=080B18&ring=00E5FF&fire=9D70FF&currStreakLabel=00E5FF"/>
 
 </div>
 
 ---
-
-## 05 / Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravChandola007&bg_color=0D1117&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+# `05. CONTRIBUTION FREQUENCY`
+
+*Visualizing my development activity.*
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravChandola007&bg_color=080B18&color=00E5FF&line=9D70FF&point=FFFFFF&area=true&hide_border=true&custom_title=GAURAV'S%20DEVELOPMENT%20ACTIVITY" width="100%"/>
 
 </div>
 
 ---
-
-## 06 / Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GauravChandola007/GauravChandola007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+# `06. CONTRIBUTION SNAKE`
+
+*Every contribution is another step in the journey.*
+
+<img src="https://raw.githubusercontent.com/GauravChandola007/GauravChandola007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 </div>
 
 ---
 
-## 07 / Currently Exploring
+<div align="center">
+
+# `07. ACTIVE RESEARCH & LEARNING`
+
+</div>
 
 <details>
-<summary><b>📚 What am I learning?</b></summary>
+<summary><b>⚡ Programming & Computer Science</b></summary>
 
-- Advanced JavaScript
-- Java Programming
+- JavaScript internals and advanced concepts
 - TypeScript
-- Backend Development
-- REST API Architecture
+- Java and Object-Oriented Programming
 - Data Structures and Algorithms
-- Git and GitHub Workflows
+- Problem Solving
+- Software Engineering Fundamentals
 
 </details>
 
 <details>
-<summary><b>💡 My Development Interests</b></summary>
+<summary><b>🤖 Artificial Intelligence</b></summary>
 
-- Artificial Intelligence
-- LLM-powered applications
-- Full Stack Development
-- Backend Engineering
-- Android Development
-- Software Architecture
-- Intelligent Automation
+- Large Language Models
+- AI application architecture
+- AI-powered workflows
+- Intelligent assistants
+- AI integration with software products
 
 </details>
 
 <details>
-<summary><b>🎯 My Goals</b></summary>
+<summary><b>⚙️ Engineering & Development</b></summary>
 
-- Strengthen programming fundamentals
-- Improve problem-solving skills
-- Build production-quality applications
-- Understand software engineering deeply
-- Create useful AI-powered products
-- Become an industry-ready software engineer
+- REST API architecture
+- Backend development
+- Database design
+- Android application development
+- Git and GitHub workflows
+- Application architecture
+
+</details>
+
+<details>
+<summary><b>🚀 Long-Term Mission</b></summary>
+
+- Become a strong software engineer
+- Build useful and reliable applications
+- Develop deeper computer science fundamentals
+- Work on meaningful AI-powered products
+- Contribute to real-world software projects
 
 </details>
 
 ---
 
-## 08 / Connect With Me
-
 <div align="center">
+
+# `08. ESTABLISH CONNECTION`
+
+### Have an interesting idea or project?
+
+I'm interested in connecting with developers, builders and people working on meaningful technology.
+
+<br/>
 
 <a href="https://github.com/GauravChandola007">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:30205E,100:080B18&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-*Building today. Engineering tomorrow.*
+**END OF TRANSMISSION**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer" width="100%"/>
+`DESIGNED & BUILT BY GAURAV CHANDOLA`
 
 </div>
+
